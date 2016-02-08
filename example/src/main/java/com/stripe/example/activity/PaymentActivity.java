@@ -22,7 +22,7 @@ public class PaymentActivity extends FragmentActivity {
      *
      * You can get your key here: https://manage.stripe.com/account/apikeys
      */
-    public static final String PUBLISHABLE_KEY = "pk_test_6pRNASCoBOKtIshFeQd4XMUh";
+    public static final String PUBLISHABLE_KEY = "pk_test_xukA113LOjTJ594cUvUEM1uo";
 
     private ProgressDialogFragment progressFragment;
 
